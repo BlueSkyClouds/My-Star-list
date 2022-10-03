@@ -1,0 +1,22 @@
+name: Update Star list
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: My Awesome list
+        uses: simonecorsi/mawesome@latest
+        with:
+          api-token: ${{ secrets.ACCESS_TOKEN }}
+          github-email: ${{ secrets.USER_EMAIL }}
+          template-path: "template/README.ejs"
+          github-name: ${{ github.repository_owner }}
