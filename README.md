@@ -110,6 +110,8 @@
 
 *   [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本
 
+*   [kmvan/x-prober](https://github.com/kmvan/x-prober) - 🐘 A probe program for PHP environment (一款精美的 PHP 探針, 又名X探針、劉海探針)
+
 ## SourcePawn
 
 *   [tilgep/stripper](https://github.com/tilgep/stripper) - Sourcepawn implementation of Stripper:Source
@@ -131,8 +133,6 @@
 *   [Franc1sco/SM-Translator](https://github.com/Franc1sco/SM-Translator) - Sourcemod plugin for translate chat messages
 
 *   [Vauff/DynamicChannels](https://github.com/Vauff/DynamicChannels) - Automatic game\_text channel assignment for server plugins that avoids map channels
-
-*   [nanociaglia/TabHudInfo](https://github.com/nanociaglia/TabHudInfo) - Show extra info when you press TAB to open the ScoreBoard
 
 *   [Franc1sco/sm-zombiereloaded-3-Franug-Edition](https://github.com/Franc1sco/sm-zombiereloaded-3-Franug-Edition) - Improved version of zombiereloaded plugin with support for CS:GO and CS:S
 
