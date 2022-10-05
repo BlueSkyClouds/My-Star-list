@@ -48,11 +48,9 @@
 
 *   [firkerword/Firker-Actions](https://github.com/firkerword/Firker-Actions) -
 
-*   [Hywfred/check\_in](https://github.com/Hywfred/check_in) -
-
 *   [igorcmoura/anitopy](https://github.com/igorcmoura/anitopy) - Anime video filename parser in Python, based on Anitomy
 
-*   [RanKKI/Bangumi](https://github.com/RanKKI/Bangumi) - Highly customisable automatic project to follow & watch Anime, works well with media libraries such as Jellyfin
+*   [RanKKI/BangumiBot](https://github.com/RanKKI/BangumiBot) - Highly customisable automatic project to follow & watch Anime, works well with media libraries such as Jellyfin
 
 *   [EstrellaXD/Auto\_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) - AutoBangumi - 全自动追番工具，节约时间创造价值
 
@@ -459,6 +457,8 @@
 *   [yuantuo666/baiduwp-php](https://github.com/yuantuo666/baiduwp-php) - PanDownload网页复刻版
 
 *   [sbpp/sourcebans-pp](https://github.com/sbpp/sourcebans-pp) - Admin, ban, and comms management system for the Source engine
+
+*   [AyagawaSeirin/BilibiliFollowPage](https://github.com/AyagawaSeirin/BilibiliFollowPage) - 基于handsome主题的B站追番列表独立页面作品
 
 ## Vue
 
