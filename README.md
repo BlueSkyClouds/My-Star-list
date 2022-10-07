@@ -17,13 +17,13 @@
 ## Table of Contents
 
 *   [miscellaneous](#miscellaneous)
-*   [Python](#python)
 *   [C++](#c)
 *   [TypeScript](#typescript)
 *   [Markdown](#markdown)
 *   [SourcePawn](#sourcepawn)
 *   [Go](#go)
 *   [C#](#c-1)
+*   [Python](#python)
 *   [JavaScript](#javascript)
 *   [CSS](#css)
 *   [Standard ML](#standard-ml)
@@ -97,44 +97,6 @@
 *   [lovelyyoshino/Bilibili-Live-API](https://github.com/lovelyyoshino/Bilibili-Live-API) - BILIBILI 直播/番剧 API
 
 *   [qiandao-today/templates](https://github.com/qiandao-today/templates) - 基于开源新版签到框架站发布的公共har模板库，仅供示例
-
-## Python
-
-*   [firkerword/Firker-Actions](https://github.com/firkerword/Firker-Actions) -
-
-*   [igorcmoura/anitopy](https://github.com/igorcmoura/anitopy) - Anime video filename parser in Python, based on Anitomy
-
-*   [RanKKI/BangumiBot](https://github.com/RanKKI/BangumiBot) - Highly customisable automatic project to follow & watch Anime, works well with media libraries such as Jellyfin
-
-*   [EstrellaXD/Auto\_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) - AutoBangumi - 全自动追番工具，节约时间创造价值
-
-*   [redis/redis-py](https://github.com/redis/redis-py) - Redis Python Client
-
-*   [666wcy/pikpakdown](https://github.com/666wcy/pikpakdown) -
-
-*   [vcb-s/VCB-S\_Publishing](https://github.com/vcb-s/VCB-S_Publishing) - Publishing Standards
-
-*   [bilibili/ailab](https://github.com/bilibili/ailab) -
-
-*   [ExpLangcn/WanLi](https://github.com/ExpLangcn/WanLi) - 方便红队人员对目标站点进行安全检测，快速获取资产。It is convenient for red team personnel to conduct security detection on the target site and quickly obtain assets.
-
-*   [ReAbout/web-sec](https://github.com/ReAbout/web-sec) - WEB安全手册(红队安全技能栈)，漏洞理解，漏洞利用，代码审计和渗透测试总结。【持续更新】
-
-*   [BlueSkyClouds/My-Actions](https://github.com/BlueSkyClouds/My-Actions) - 爱奇艺会员签到抽奖,腾讯视频会员签到,哔哩哔哩签到,中国电信签到,V2ex签到,哔咔漫画签到,百度贴吧自动签到
-
-*   [shmilylty/OneForAll](https://github.com/shmilylty/OneForAll) - OneForAll是一款功能强大的子域收集工具
-
-*   [Mr-xn/BurpSuite-collections](https://github.com/Mr-xn/BurpSuite-collections) - 有关burpsuite的插件(非商店),文章以及使用技巧的收集(此项目不再提供burpsuite破解文件,如需要请在博客mrxn.net下载)---Collection of burpsuite plugins (non-stores), articles and tips for using Burpsuite, no crack version file
-
-*   [lifegpc/bili](https://github.com/lifegpc/bili) - A tool to download barrage/video from bilibili/acfun. Support English, Japanese and Chinese(China).一个Python编写的从Bilibili/Acfun下载弹幕/视频的工具。支持英语、日语和中文（中国）。（WEBGUI正在路上）
-
-*   [wdjoys/pt-tools](https://github.com/wdjoys/pt-tools) - pt自动签到,说谢谢,刷魔力,登录保号
-
-*   [MoyuScript/bilibili-api](https://github.com/MoyuScript/bilibili-api) - 哔哩哔哩的API调用模块
-
-*   [Yorag/SCF-Sign](https://github.com/Yorag/SCF-Sign) - 集成签到
-
-*   [Dawnnnnnn/bilibili-live-tools](https://github.com/Dawnnnnnn/bilibili-live-tools) - python实现的bilibili直播助手
 
 ## C++
 
@@ -295,6 +257,44 @@
 *   [HMBSbige/BilibiliLiveRecordDownLoader](https://github.com/HMBSbige/BilibiliLiveRecordDownLoader) - Bilibili 直播录制与回放下载
 
 *   [CFPAOrg/Minecraft-Mod-Language-Package](https://github.com/CFPAOrg/Minecraft-Mod-Language-Package) - A language package for Minecraft Mods.
+
+## Python
+
+*   [igorcmoura/anitopy](https://github.com/igorcmoura/anitopy) - Anime video filename parser in Python, based on Anitomy
+
+*   [RanKKI/BangumiBot](https://github.com/RanKKI/BangumiBot) - Highly customisable automatic project to follow & watch Anime, works well with media libraries such as Jellyfin
+
+*   [EstrellaXD/Auto\_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) - AutoBangumi - 全自动追番工具，节约时间创造价值
+
+*   [redis/redis-py](https://github.com/redis/redis-py) - Redis Python Client
+
+*   [666wcy/pikpakdown](https://github.com/666wcy/pikpakdown) -
+
+*   [vcb-s/VCB-S\_Publishing](https://github.com/vcb-s/VCB-S_Publishing) - Publishing Standards
+
+*   [bilibili/ailab](https://github.com/bilibili/ailab) -
+
+*   [ExpLangcn/WanLi](https://github.com/ExpLangcn/WanLi) - 方便红队人员对目标站点进行安全检测，快速获取资产。It is convenient for red team personnel to conduct security detection on the target site and quickly obtain assets.
+
+*   [ReAbout/web-sec](https://github.com/ReAbout/web-sec) - WEB安全手册(红队安全技能栈)，漏洞理解，漏洞利用，代码审计和渗透测试总结。【持续更新】
+
+*   [BlueSkyClouds/My-Actions](https://github.com/BlueSkyClouds/My-Actions) - 爱奇艺会员签到抽奖,腾讯视频会员签到,哔哩哔哩签到,中国电信签到,V2ex签到,哔咔漫画签到,百度贴吧自动签到
+
+*   [shmilylty/OneForAll](https://github.com/shmilylty/OneForAll) - OneForAll是一款功能强大的子域收集工具
+
+*   [Mr-xn/BurpSuite-collections](https://github.com/Mr-xn/BurpSuite-collections) - 有关burpsuite的插件(非商店),文章以及使用技巧的收集(此项目不再提供burpsuite破解文件,如需要请在博客mrxn.net下载)---Collection of burpsuite plugins (non-stores), articles and tips for using Burpsuite, no crack version file
+
+*   [lifegpc/bili](https://github.com/lifegpc/bili) - A tool to download barrage/video from bilibili/acfun. Support English, Japanese and Chinese(China).一个Python编写的从Bilibili/Acfun下载弹幕/视频的工具。支持英语、日语和中文（中国）。（WEBGUI正在路上）
+
+*   [wdjoys/pt-tools](https://github.com/wdjoys/pt-tools) - pt自动签到,说谢谢,刷魔力,登录保号
+
+*   [MoyuScript/bilibili-api](https://github.com/MoyuScript/bilibili-api) - 哔哩哔哩的API调用模块
+
+*   [Yorag/SCF-Sign](https://github.com/Yorag/SCF-Sign) - 集成签到
+
+*   [Dawnnnnnn/bilibili-live-tools](https://github.com/Dawnnnnnn/bilibili-live-tools) - python实现的bilibili直播助手
+
+*   [qiandao-today/qiandao](https://github.com/qiandao-today/qiandao) - \[当前版本: 20220911] Qiandao —— 一个HTTP请求定时任务自动执行框架 base on HAR Editor and Tornado Server
 
 ## JavaScript
 
