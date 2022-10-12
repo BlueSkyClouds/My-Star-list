@@ -170,7 +170,7 @@
 
 *   [Sarrus1/sourcepawn-vscode](https://github.com/Sarrus1/sourcepawn-vscode) - VSCode extension for SourcePawn scripting
 
-*   [desktop/desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
+*   [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
 
 ## Markdown
 
