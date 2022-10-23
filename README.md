@@ -46,6 +46,8 @@
 
 ## C++
 
+*   [alliedmodders/hl2sdk](https://github.com/alliedmodders/hl2sdk) - Half-Life 2 SDK Mirrors
+
 *   [mapbase-source/source-sdk-2013](https://github.com/mapbase-source/source-sdk-2013) - This is Mapbase's public GitHub repo. It contains all of the code, but not the assets.
 
 *   [cppla/ServerStatus](https://github.com/cppla/ServerStatus) - 云探针、多服务器探针、云监控、多服务器云监控，演示： https://tz.cloudcpp.com/
@@ -145,8 +147,6 @@
 *   [funkyoummp/BurpSuiteCn](https://github.com/funkyoummp/BurpSuiteCn) - Burp Suite  汉化 中文
 
 *   [lovelyyoshino/Bilibili-Live-API](https://github.com/lovelyyoshino/Bilibili-Live-API) - BILIBILI 直播/番剧 API
-
-*   [qiandao-today/templates](https://github.com/qiandao-today/templates) - 基于开源新版签到框架站发布的公共har模板库，仅供示例
 
 ## TypeScript
 
