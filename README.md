@@ -16,6 +16,7 @@
 
 ## Table of Contents
 
+*   [Rust](#rust)
 *   [Java](#java)
 *   [C#](#c)
 *   [C++](#c-1)
@@ -31,7 +32,6 @@
 *   [C](#c-2)
 *   [HLSL](#hlsl)
 *   [Starlark](#starlark)
-*   [Rust](#rust)
 *   [Kotlin](#kotlin)
 *   [Squirrel](#squirrel)
 *   [PHP](#php)
@@ -43,6 +43,14 @@
 *   [HTML](#html)
 *   [Stylus](#stylus)
 *   [Thanks](#thanks)
+
+## Rust
+
+*   [qini7-sese/eh2telegraph](https://github.com/qini7-sese/eh2telegraph) -
+
+*   [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
+
+*   [shadowsocks/shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) - A Rust port of shadowsocks
 
 ## Java
 
@@ -422,12 +430,6 @@
 
 *   [rabbitmq/rabbitmq-server](https://github.com/rabbitmq/rabbitmq-server) - Open source RabbitMQ: core server and tier 1 (built-in) plugins
 
-## Rust
-
-*   [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
-
-*   [shadowsocks/shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) - A Rust port of shadowsocks
-
 ## Kotlin
 
 *   [yujincheng08/BiliRoaming](https://github.com/yujincheng08/BiliRoaming) - 哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.
@@ -457,8 +459,6 @@
 *   [typecho/typecho](https://github.com/typecho/typecho) - A PHP Blogging Platform. Simple and Powerful.
 
 *   [yuantuo666/baiduwp-php](https://github.com/yuantuo666/baiduwp-php) - PanDownload网页复刻版
-
-*   [sbpp/sourcebans-pp](https://github.com/sbpp/sourcebans-pp) - Admin, ban, and comms management system for the Source engine
 
 ## Vue
 
