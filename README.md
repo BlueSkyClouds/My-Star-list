@@ -16,8 +16,8 @@
 
 ## Table of Contents
 
-*   [Rust](#rust)
 *   [Java](#java)
+*   [Rust](#rust)
 *   [C#](#c)
 *   [C++](#c-1)
 *   [miscellaneous](#miscellaneous)
@@ -44,15 +44,9 @@
 *   [Stylus](#stylus)
 *   [Thanks](#thanks)
 
-## Rust
-
-*   [qini7-sese/eh2telegraph](https://github.com/qini7-sese/eh2telegraph) -
-
-*   [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
-
-*   [shadowsocks/shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) - A Rust port of shadowsocks
-
 ## Java
+
+*   [Ehviewer-Overhauled/Ehviewer](https://github.com/Ehviewer-Overhauled/Ehviewer) - EhViewer overhauled with Material Design 3 and more
 
 *   [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 
@@ -83,6 +77,14 @@
 *   [elunez/eladmin](https://github.com/elunez/eladmin) - 项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
 
 *   [shvetsgroup/squirrel-lang-idea-plugin](https://github.com/shvetsgroup/squirrel-lang-idea-plugin) - Squirrel language integration with IntelliJ IDEA.
+
+## Rust
+
+*   [qini7-sese/eh2telegraph](https://github.com/qini7-sese/eh2telegraph) -
+
+*   [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
+
+*   [shadowsocks/shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) - A Rust port of shadowsocks
 
 ## C\#
 
@@ -279,8 +281,6 @@
 *   [peace-maker/lysis-java](https://github.com/peace-maker/lysis-java) - Lysis - SourceMod .smx and AMXModX .amxx decompiler
 
 *   [darkerz7/CSGO-Plugins](https://github.com/darkerz7/CSGO-Plugins) - My Plugins
-
-*   [TroubleInTerroristTown/Public](https://github.com/TroubleInTerroristTown/Public) -  The game is about a group of "terrorists" who have traitors among them, out to kill everyone who's not a traitor.
 
 ## Go
 
