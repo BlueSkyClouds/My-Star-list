@@ -16,6 +16,7 @@
 
 ## Table of Contents
 
+*   [Go](#go)
 *   [Java](#java)
 *   [Rust](#rust)
 *   [C#](#c)
@@ -24,7 +25,6 @@
 *   [TypeScript](#typescript)
 *   [Markdown](#markdown)
 *   [SourcePawn](#sourcepawn)
-*   [Go](#go)
 *   [Python](#python)
 *   [JavaScript](#javascript)
 *   [CSS](#css)
@@ -41,8 +41,27 @@
 *   [CMake](#cmake)
 *   [Dart](#dart)
 *   [HTML](#html)
-*   [Stylus](#stylus)
 *   [Thanks](#thanks)
+
+## Go
+
+*   [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
+
+*   [EndlessCheng/mahjong-helper](https://github.com/EndlessCheng/mahjong-helper) - 日本麻将助手：牌效+防守+记牌（支持雀魂、天凤）
+
+*   [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4 / IPv6)！另外也支持其他 CDN / 网站 IP ~
+
+*   [togettoyou/hub-mirror](https://github.com/togettoyou/hub-mirror) - 🚀 gcr.io、k8s.gcr.io、quay.io、ghcr.io 等国外镜像加速下载服务
+
+*   [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
+
+*   [Dreamacro/clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
+
+*   [ameshkov/dnslookup](https://github.com/ameshkov/dnslookup) - Simple command line utility to make DNS lookups to the specified server
+
+*   [gorcon/rcon-cli](https://github.com/gorcon/rcon-cli) - RCON client for executing queries on game server.
+
+*   [jweny/pocassist](https://github.com/jweny/pocassist) - 全新的漏洞测试框架，支持poc在线编辑、运行、批量测试。使用文档：
 
 ## Java
 
@@ -282,24 +301,6 @@
 
 *   [darkerz7/CSGO-Plugins](https://github.com/darkerz7/CSGO-Plugins) - My Plugins
 
-## Go
-
-*   [EndlessCheng/mahjong-helper](https://github.com/EndlessCheng/mahjong-helper) - 日本麻将助手：牌效+防守+记牌（支持雀魂、天凤）
-
-*   [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4 / IPv6)！另外也支持其他 CDN / 网站 IP ~
-
-*   [togettoyou/hub-mirror](https://github.com/togettoyou/hub-mirror) - 🚀 gcr.io、k8s.gcr.io、quay.io、ghcr.io 等国外镜像加速下载服务
-
-*   [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
-
-*   [Dreamacro/clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
-
-*   [ameshkov/dnslookup](https://github.com/ameshkov/dnslookup) - Simple command line utility to make DNS lookups to the specified server
-
-*   [gorcon/rcon-cli](https://github.com/gorcon/rcon-cli) - RCON client for executing queries on game server.
-
-*   [jweny/pocassist](https://github.com/jweny/pocassist) - 全新的漏洞测试框架，支持poc在线编辑、运行、批量测试。使用文档：
-
 ## Python
 
 *   [igorcmoura/anitopy](https://github.com/igorcmoura/anitopy) - Anime video filename parser in Python, based on Anitomy
@@ -491,10 +492,6 @@
 ## HTML
 
 *   [ybdt/poc-hub](https://github.com/ybdt/poc-hub) - 漏洞检测、漏洞利用
-
-## Stylus
-
-*   [jerryc127/hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly) -  🦋 A Hexo Theme: Butterfly
 
 ## Thanks
 
