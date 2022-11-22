@@ -41,6 +41,7 @@
 *   [CMake](#cmake)
 *   [Dart](#dart)
 *   [HTML](#html)
+*   [EJS](#ejs)
 *   [Thanks](#thanks)
 
 ## Go
@@ -383,8 +384,6 @@
 
 *   [TeamAOF/All-of-Fabric-3](https://github.com/TeamAOF/All-of-Fabric-3) - Modpack containing the latest & best Fabric mods
 
-*   [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
-
 *   [chavyleung/scripts](https://github.com/chavyleung/scripts) - BoxJs
 
 *   [ikeq/hexo-theme-inside](https://github.com/ikeq/hexo-theme-inside) - 🌈  SPA, Flat and clean theme for Hexo https://blog.oniuo.com/theme-inside
@@ -492,6 +491,10 @@
 ## HTML
 
 *   [ybdt/poc-hub](https://github.com/ybdt/poc-hub) - 漏洞检测、漏洞利用
+
+## EJS
+
+*   [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 
 ## Thanks
 
