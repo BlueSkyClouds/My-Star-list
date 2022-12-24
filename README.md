@@ -239,7 +239,7 @@
 
 *   [anyabc/something](https://github.com/anyabc/something) -
 
-*   [yonghen/chimi-](https://github.com/yonghen/chimi-) - MIUI13 增强扩展模块 (LSPosed/Xposed) MIUI13 MIUI enhancement extension module
+*   [yonghen/chimi-](https://github.com/yonghen/chimi-) - MIUI13/MIUI14 增强扩展模块 (LSPosed/Xposed) MIUI13/MIUI14 MIUI enhancement extension module
 
 *   [community/community](https://github.com/community/community) - Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more!
 
