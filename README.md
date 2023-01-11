@@ -491,7 +491,7 @@
 
 ## HTML
 
-*   [ybdt/poc-hub](https://github.com/ybdt/poc-hub) - 漏洞复现、漏洞检测
+*   [ybdt/poc-hub](https://github.com/ybdt/poc-hub) - 漏洞复现、漏洞检测、漏洞利用
 
 ## Thanks
 
