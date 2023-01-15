@@ -18,8 +18,9 @@
 
 *   [Go](#go)
 *   [Python](#python)
-*   [Java](#java)
+*   [Kotlin](#kotlin)
 *   [Rust](#rust)
+*   [Java](#java)
 *   [C#](#c)
 *   [C++](#c-1)
 *   [miscellaneous](#miscellaneous)
@@ -32,7 +33,6 @@
 *   [C](#c-2)
 *   [HLSL](#hlsl)
 *   [Starlark](#starlark)
-*   [Kotlin](#kotlin)
 *   [Squirrel](#squirrel)
 *   [PHP](#php)
 *   [Vue](#vue)
@@ -103,9 +103,29 @@
 
 *   [Yorag/SCF-Sign](https://github.com/Yorag/SCF-Sign) - 集成签到
 
-## Java
+## Kotlin
 
 *   [Ehviewer-Overhauled/Ehviewer](https://github.com/Ehviewer-Overhauled/Ehviewer) - EhViewer overhauled with Material Design 3 and more
+
+*   [yujincheng08/BiliRoaming](https://github.com/yujincheng08/BiliRoaming) - 哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.
+
+*   [YiiGuxing/TranslationPlugin](https://github.com/YiiGuxing/TranslationPlugin) - Translation plugin for IntelliJ based IDEs/Android Studio/HUAWEI DevEco Studio.
+
+*   [mamoe/mirai](https://github.com/mamoe/mirai) - 高效率 QQ 机器人支持库
+
+*   [HMBSbige/ShadowsocksR-Android](https://github.com/HMBSbige/ShadowsocksR-Android) - 【自用】咕咕咕
+
+*   [czp3009/bilibili-api](https://github.com/czp3009/bilibili-api) - Bilibili API library for Kotlin
+
+## Rust
+
+*   [qini7-sese/eh2telegraph](https://github.com/qini7-sese/eh2telegraph) -
+
+*   [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
+
+*   [shadowsocks/shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) - A Rust port of shadowsocks
+
+## Java
 
 *   [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 
@@ -136,14 +156,6 @@
 *   [elunez/eladmin](https://github.com/elunez/eladmin) - 项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
 
 *   [shvetsgroup/squirrel-lang-idea-plugin](https://github.com/shvetsgroup/squirrel-lang-idea-plugin) - Squirrel language integration with IntelliJ IDEA.
-
-## Rust
-
-*   [qini7-sese/eh2telegraph](https://github.com/qini7-sese/eh2telegraph) -
-
-*   [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
-
-*   [shadowsocks/shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) - A Rust port of shadowsocks
 
 ## C\#
 
@@ -432,18 +444,6 @@
 ## Starlark
 
 *   [rabbitmq/rabbitmq-server](https://github.com/rabbitmq/rabbitmq-server) - Open source RabbitMQ: core server and tier 1 (built-in) plugins
-
-## Kotlin
-
-*   [yujincheng08/BiliRoaming](https://github.com/yujincheng08/BiliRoaming) - 哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.
-
-*   [YiiGuxing/TranslationPlugin](https://github.com/YiiGuxing/TranslationPlugin) - Translation plugin for IntelliJ based IDEs/Android Studio/HUAWEI DevEco Studio.
-
-*   [mamoe/mirai](https://github.com/mamoe/mirai) - 高效率 QQ 机器人支持库
-
-*   [HMBSbige/ShadowsocksR-Android](https://github.com/HMBSbige/ShadowsocksR-Android) - 【自用】咕咕咕
-
-*   [czp3009/bilibili-api](https://github.com/czp3009/bilibili-api) - Bilibili API library for Kotlin
 
 ## Squirrel
 
