@@ -29,7 +29,6 @@
 *   [SourcePawn](#sourcepawn)
 *   [JavaScript](#javascript)
 *   [CSS](#css)
-*   [Standard ML](#standard-ml)
 *   [C](#c-2)
 *   [HLSL](#hlsl)
 *   [Starlark](#starlark)
@@ -251,6 +250,8 @@
 
 *   [anyabc/something](https://github.com/anyabc/something) -
 
+*   [komeiji-satori/Dress](https://github.com/komeiji-satori/Dress) - 好耶  是女装
+
 *   [yonghen/chimi-](https://github.com/yonghen/chimi-) - MIUI13/MIUI14 增强扩展模块 (LSPosed/Xposed) MIUI13/MIUI14 MIUI enhancement extension module
 
 *   [community/community](https://github.com/community/community) - Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more!
@@ -408,10 +409,6 @@
 *   [ronggang/transmission-web-control](https://github.com/ronggang/transmission-web-control) - 一个 Transmission 浏览器管理界面。Transmission Web Control is a custom web UI.
 
 *   [WebStackPage/WebStackPage.github.io](https://github.com/WebStackPage/WebStackPage.github.io) - ❤️静态响应式网址导航网站 - webstack.cc
-
-## Standard ML
-
-*   [komeiji-satori/Dress](https://github.com/komeiji-satori/Dress) - 好耶  是女装
 
 ## C
 
