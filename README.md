@@ -33,11 +33,11 @@
 *   [HLSL](#hlsl)
 *   [Starlark](#starlark)
 *   [Squirrel](#squirrel)
-*   [PHP](#php)
 *   [Vue](#vue)
 *   [PowerShell](#powershell)
 *   [Shell](#shell)
 *   [CMake](#cmake)
+*   [PHP](#php)
 *   [Dart](#dart)
 *   [HTML](#html)
 *   [Thanks](#thanks)
@@ -448,16 +448,6 @@
 
 *   [gflclan-cs-go-ze/ZE-Configs](https://github.com/gflclan-cs-go-ze/ZE-Configs) - A collection of configs for CS:GO ZE
 
-## PHP
-
-*   [ledccn/IYUUAutoReseed](https://github.com/ledccn/IYUUAutoReseed) - IYUU自动辅种工具，目前能对国内大部分的PT站点自动辅种，支持下载器集群，支持多盘位，支持多下载目录，支持远程连接等。
-
-*   [lkeme/BiliHelper-personal](https://github.com/lkeme/BiliHelper-personal) - 哔哩哔哩（Bilibili）助手 - PHP 版（Personal）
-
-*   [popcorner/discuz\_recaptcha](https://github.com/popcorner/discuz_recaptcha) - Google reCAPTCHA云验证码，可在中国大陆地区正常使用
-
-*   [typecho/typecho](https://github.com/typecho/typecho) - A PHP Blogging Platform. Simple and Powerful.
-
 ## Vue
 
 *   [CzBiX/qb-web](https://github.com/CzBiX/qb-web) - A qBittorrent Web UI, write in TypeScript+Vue.
@@ -481,6 +471,16 @@
 ## CMake
 
 *   [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
+
+## PHP
+
+*   [lkeme/BiliHelper-personal](https://github.com/lkeme/BiliHelper-personal) - 哔哩哔哩（Bilibili）助手 - PHP 版（Personal）
+
+*   [popcorner/discuz\_recaptcha](https://github.com/popcorner/discuz_recaptcha) - Google reCAPTCHA云验证码，可在中国大陆地区正常使用
+
+*   [typecho/typecho](https://github.com/typecho/typecho) - A PHP Blogging Platform. Simple and Powerful.
+
+*   [yuantuo666/baiduwp-php](https://github.com/yuantuo666/baiduwp-php) - PanDownload网页复刻版
 
 ## Dart
 
