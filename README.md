@@ -52,7 +52,7 @@
 
 *   [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4 / IPv6)！另外也支持其他 CDN / 网站 IP ~
 
-*   [togettoyou/hub-mirror](https://github.com/togettoyou/hub-mirror) - 🚀 gcr.io、k8s.gcr.io、quay.io、ghcr.io 等国外镜像加速下载服务
+*   [togettoyou/hub-mirror](https://github.com/togettoyou/hub-mirror) - 🚀 gcr.io、registry.k8s.io、k8s.gcr.io、quay.io、ghcr.io 等国外镜像加速下载服务
 
 *   [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 
@@ -376,8 +376,6 @@
 
 *   [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
 
-*   [user2831/pay\_api](https://github.com/user2831/pay_api) -
-
 *   [anthonyjgrove/react-google-login](https://github.com/anthonyjgrove/react-google-login) - A React Google Login Component
 
 *   [BeepIsla/CSGO---Discord-RichPresence](https://github.com/BeepIsla/CSGO---Discord-RichPresence) - Display CSGO information as rich presence  in discord.
@@ -399,6 +397,8 @@
 *   [chavyleung/scripts](https://github.com/chavyleung/scripts) - BoxJs
 
 *   [ikeq/hexo-theme-inside](https://github.com/ikeq/hexo-theme-inside) - 🌈  SPA, Flat and clean theme for Hexo https://blog.oniuo.com/theme-inside
+
+*   [Xcnte/Code-Prettify-for-typecho](https://github.com/Xcnte/Code-Prettify-for-typecho) - 基于prismjs的代码语法高亮typecho插件，支持众多常见的代码语言高亮显示，提供11种代码高亮风格自由切换，支持显示代码语言类型、行号，以及支持复制代码到剪切板功能
 
 ## CSS
 
