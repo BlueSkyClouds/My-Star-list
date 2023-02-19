@@ -346,7 +346,7 @@
 
 *   [Franc1sco/sm-zombiereloaded-3-Franug-Edition](https://github.com/Franc1sco/sm-zombiereloaded-3-Franug-Edition) - Improved version of zombiereloaded plugin with support for CS:GO and CS:S
 
-*   [KoNLiG/customvotes](https://github.com/KoNLiG/customvotes) -
+*   [KoNLiG/customvotes](https://github.com/KoNLiG/customvotes) - Exposes the functionality of the internal CS:GO vote panels.
 
 *   [peace-maker/lysis-java](https://github.com/peace-maker/lysis-java) - Lysis - SourceMod .smx and AMXModX .amxx decompiler
 
