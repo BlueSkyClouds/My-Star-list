@@ -16,9 +16,9 @@
 
 ## Table of Contents
 
+*   [Python](#python)
 *   [TypeScript](#typescript)
 *   [Go](#go)
-*   [Python](#python)
 *   [Kotlin](#kotlin)
 *   [Rust](#rust)
 *   [Java](#java)
@@ -41,6 +41,46 @@
 *   [Dart](#dart)
 *   [HTML](#html)
 *   [Thanks](#thanks)
+
+## Python
+
+*   [Ukenn2112/BangumiAPI](https://github.com/Ukenn2112/BangumiAPI) -
+
+*   [XiaoMiku01/fansMedalHelper](https://github.com/XiaoMiku01/fansMedalHelper) - 新版B站粉丝牌助手 全自动升级粉丝牌
+
+*   [igorcmoura/anitopy](https://github.com/igorcmoura/anitopy) - Anime video filename parser in Python, based on Anitomy
+
+*   [RanKKI/BangumiBot](https://github.com/RanKKI/BangumiBot) - Highly customisable automatic project to follow & watch Anime, works well with media libraries such as Jellyfin
+
+*   [EstrellaXD/Auto\_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) - AutoBangumi - 全自动追番工具，节约时间创造价值
+
+*   [redis/redis-py](https://github.com/redis/redis-py) - Redis Python Client
+
+*   [666wcy/pikpakdown](https://github.com/666wcy/pikpakdown) -
+
+*   [vcb-s/VCB-S\_Publishing](https://github.com/vcb-s/VCB-S_Publishing) - Publishing Standards
+
+*   [bilibili/ailab](https://github.com/bilibili/ailab) -
+
+*   [ExpLangcn/WanLi](https://github.com/ExpLangcn/WanLi) - 方便红队人员对目标站点进行安全检测，快速获取资产。It is convenient for red team personnel to conduct security detection on the target site and quickly obtain assets.
+
+*   [ReAbout/web-sec](https://github.com/ReAbout/web-sec) - WEB安全手册(红队安全技能栈)，漏洞理解，漏洞利用，代码审计和渗透测试总结。【持续更新】
+
+*   [MayoBlueSky/My-Actions](https://github.com/MayoBlueSky/My-Actions) - 爱奇艺会员,腾讯视频,哔哩哔哩,百度,各类签到
+
+*   [BlueSkyClouds/My-Actions](https://github.com/BlueSkyClouds/My-Actions) - 爱奇艺会员签到抽奖,腾讯视频会员签到,哔哩哔哩签到,中国电信签到,V2ex签到,哔咔漫画签到,百度贴吧自动签到
+
+*   [shmilylty/OneForAll](https://github.com/shmilylty/OneForAll) - OneForAll是一款功能强大的子域收集工具
+
+*   [Mr-xn/BurpSuite-collections](https://github.com/Mr-xn/BurpSuite-collections) - 有关burpsuite的插件(非商店),文章以及使用技巧的收集(此项目不再提供burpsuite破解文件,如需要请在博客mrxn.net下载)---Collection of burpsuite plugins (non-stores), articles and tips for using Burpsuite, no crack version file
+
+*   [lifegpc/bili](https://github.com/lifegpc/bili) - A tool to download barrage/video from bilibili/acfun. Support English, Japanese and Chinese(China).一个Python编写的从Bilibili/Acfun下载弹幕/视频的工具。支持英语、日语和中文（中国）。（WEBGUI正在路上）
+
+*   [wdjoys/pt-tools](https://github.com/wdjoys/pt-tools) - pt自动签到,说谢谢,刷魔力,登录保号
+
+*   [MoyuScript/bilibili-api](https://github.com/MoyuScript/bilibili-api) - 哔哩哔哩的API调用模块
+
+*   [Yorag/SCF-Sign](https://github.com/Yorag/SCF-Sign) - 集成签到
 
 ## TypeScript
 
@@ -91,44 +131,6 @@
 *   [gorcon/rcon-cli](https://github.com/gorcon/rcon-cli) - RCON client for executing queries on game server.
 
 *   [jweny/pocassist](https://github.com/jweny/pocassist) - 全新的漏洞测试框架，支持poc在线编辑、运行、批量测试。使用文档：
-
-## Python
-
-*   [XiaoMiku01/fansMedalHelper](https://github.com/XiaoMiku01/fansMedalHelper) - 新版B站粉丝牌助手 全自动升级粉丝牌
-
-*   [igorcmoura/anitopy](https://github.com/igorcmoura/anitopy) - Anime video filename parser in Python, based on Anitomy
-
-*   [RanKKI/BangumiBot](https://github.com/RanKKI/BangumiBot) - Highly customisable automatic project to follow & watch Anime, works well with media libraries such as Jellyfin
-
-*   [EstrellaXD/Auto\_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) - AutoBangumi - 全自动追番工具，节约时间创造价值
-
-*   [redis/redis-py](https://github.com/redis/redis-py) - Redis Python Client
-
-*   [666wcy/pikpakdown](https://github.com/666wcy/pikpakdown) -
-
-*   [vcb-s/VCB-S\_Publishing](https://github.com/vcb-s/VCB-S_Publishing) - Publishing Standards
-
-*   [bilibili/ailab](https://github.com/bilibili/ailab) -
-
-*   [ExpLangcn/WanLi](https://github.com/ExpLangcn/WanLi) - 方便红队人员对目标站点进行安全检测，快速获取资产。It is convenient for red team personnel to conduct security detection on the target site and quickly obtain assets.
-
-*   [ReAbout/web-sec](https://github.com/ReAbout/web-sec) - WEB安全手册(红队安全技能栈)，漏洞理解，漏洞利用，代码审计和渗透测试总结。【持续更新】
-
-*   [MayoBlueSky/My-Actions](https://github.com/MayoBlueSky/My-Actions) - 爱奇艺会员,腾讯视频,哔哩哔哩,百度,各类签到
-
-*   [BlueSkyClouds/My-Actions](https://github.com/BlueSkyClouds/My-Actions) - 爱奇艺会员签到抽奖,腾讯视频会员签到,哔哩哔哩签到,中国电信签到,V2ex签到,哔咔漫画签到,百度贴吧自动签到
-
-*   [shmilylty/OneForAll](https://github.com/shmilylty/OneForAll) - OneForAll是一款功能强大的子域收集工具
-
-*   [Mr-xn/BurpSuite-collections](https://github.com/Mr-xn/BurpSuite-collections) - 有关burpsuite的插件(非商店),文章以及使用技巧的收集(此项目不再提供burpsuite破解文件,如需要请在博客mrxn.net下载)---Collection of burpsuite plugins (non-stores), articles and tips for using Burpsuite, no crack version file
-
-*   [lifegpc/bili](https://github.com/lifegpc/bili) - A tool to download barrage/video from bilibili/acfun. Support English, Japanese and Chinese(China).一个Python编写的从Bilibili/Acfun下载弹幕/视频的工具。支持英语、日语和中文（中国）。（WEBGUI正在路上）
-
-*   [wdjoys/pt-tools](https://github.com/wdjoys/pt-tools) - pt自动签到,说谢谢,刷魔力,登录保号
-
-*   [MoyuScript/bilibili-api](https://github.com/MoyuScript/bilibili-api) - 哔哩哔哩的API调用模块
-
-*   [Yorag/SCF-Sign](https://github.com/Yorag/SCF-Sign) - 集成签到
 
 ## Kotlin
 
@@ -479,8 +481,6 @@
 *   [popcorner/discuz\_recaptcha](https://github.com/popcorner/discuz_recaptcha) - Google reCAPTCHA云验证码，可在中国大陆地区正常使用
 
 *   [typecho/typecho](https://github.com/typecho/typecho) - A PHP Blogging Platform. Simple and Powerful.
-
-*   [yuantuo666/baiduwp-php](https://github.com/yuantuo666/baiduwp-php) - PanDownload网页复刻版
 
 ## Dart
 
