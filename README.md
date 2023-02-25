@@ -280,8 +280,6 @@
 
 *   [anyabc/something](https://github.com/anyabc/something) -
 
-*   [komeiji-satori/Dress](https://github.com/komeiji-satori/Dress) - 好耶  是女装
-
 *   [yonghen/chimi-](https://github.com/yonghen/chimi-) - MIUI13/MIUI14 增强扩展模块 (LSPosed/Xposed) MIUI13/MIUI14 MIUI enhancement extension module
 
 *   [community/community](https://github.com/community/community) - Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more!
@@ -481,6 +479,8 @@
 *   [popcorner/discuz\_recaptcha](https://github.com/popcorner/discuz_recaptcha) - Google reCAPTCHA云验证码，可在中国大陆地区正常使用
 
 *   [typecho/typecho](https://github.com/typecho/typecho) - A PHP Blogging Platform. Simple and Powerful.
+
+*   [yuantuo666/baiduwp-php](https://github.com/yuantuo666/baiduwp-php) - PanDownload网页复刻版
 
 ## Dart
 
