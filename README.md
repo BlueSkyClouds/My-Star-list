@@ -330,7 +330,7 @@
 
 *   [tilgep/stripper](https://github.com/tilgep/stripper) - Sourcepawn implementation of Stripper:Source
 
-*   [Kxnrl/Store](https://github.com/Kxnrl/Store) - CSGO sourcemod store plugin.
+*   [Kxnrl/Store](https://github.com/Kxnrl/Store) - Store plugin for Source Engine Games.
 
 *   [Franc1sco/Fortnite-Emotes-Extended](https://github.com/Franc1sco/Fortnite-Emotes-Extended) - Fortnite Emotes plugin with all the private emotes included
 
@@ -420,7 +420,7 @@
 
 *   [ufrisk/pcileech](https://github.com/ufrisk/pcileech) - Direct Memory Access (DMA) Attack Software
 
-*   [ufrisk/MemProcFS](https://github.com/ufrisk/MemProcFS) - The Memory Process File System
+*   [ufrisk/MemProcFS](https://github.com/ufrisk/MemProcFS) - MemProcFS
 
 *   [easychen/pushdeer](https://github.com/easychen/pushdeer) - 开放源码的无App推送服务，iOS14+扫码即用。亦支持快应用/iOS和Mac客户端、Android客户端、自制设备
 
