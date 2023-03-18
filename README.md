@@ -202,7 +202,7 @@
 
 *   [gorcon/rcon-cli](https://github.com/gorcon/rcon-cli) - RCON client for executing queries on game server.
 
-*   [jweny/pocassist](https://github.com/jweny/pocassist) - 全新的漏洞测试框架，支持poc在线编辑、运行、批量测试。使用文档：
+*   [jweny/pocassist](https://github.com/jweny/pocassist) - 全新的漏洞测试框架。
 
 ## Kotlin
 
