@@ -178,8 +178,6 @@
 
 *   [whyour/qinglong](https://github.com/whyour/qinglong) - 支持python3、javaScript、shell、typescript 的定时任务管理软件（Timed task management software with python3, javaScript, shell, typescript support）
 
-*   [Sarrus1/sourcepawn-vscode](https://github.com/Sarrus1/sourcepawn-vscode) - VSCode extension for SourcePawn scripting
-
 *   [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
 
 ## Go
@@ -359,6 +357,8 @@
 *   [KoNLiG/customvotes](https://github.com/KoNLiG/customvotes) - Exposes the functionality of the internal CS:GO vote panels.
 
 *   [peace-maker/lysis-java](https://github.com/peace-maker/lysis-java) - Lysis - SourceMod .smx and AMXModX .amxx decompiler
+
+*   [Sarrus1/sourcepawn-vscode](https://github.com/Sarrus1/sourcepawn-vscode) - VSCode extension for SourcePawn scripting
 
 *   [darkerz7/CSGO-Plugins](https://github.com/darkerz7/CSGO-Plugins) - My Plugins
 
