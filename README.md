@@ -32,10 +32,10 @@
 *   [C](#c-2)
 *   [HLSL](#hlsl)
 *   [Starlark](#starlark)
+*   [Shell](#shell)
 *   [Squirrel](#squirrel)
 *   [Vue](#vue)
 *   [PowerShell](#powershell)
-*   [Shell](#shell)
 *   [CMake](#cmake)
 *   [PHP](#php)
 *   [Dart](#dart)
@@ -44,7 +44,7 @@
 
 ## Python
 
-*   [Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+*   [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 
 *   [Ukenn2112/BangumiTelegramBot](https://github.com/Ukenn2112/BangumiTelegramBot) - 在 Telegram 上简单操作 Bangumi
 
@@ -213,8 +213,6 @@
 *   [code-farmer-i/vue-markdown-editor](https://github.com/code-farmer-i/vue-markdown-editor) - A markdown editor built on Vue
 
 *   [EtherDream/freecdn](https://github.com/EtherDream/freecdn) - A front-end CDN based on ServiceWorker
-
-*   [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
 
 *   [pt-plugins/PT-Plugin-Plus](https://github.com/pt-plugins/PT-Plugin-Plus) - PT 助手 Plus，为 Microsoft Edge、Google Chrome、Firefox 浏览器插件（Web Extensions），主要用于辅助下载 PT 站的种子。
 
@@ -448,6 +446,14 @@
 
 *   [rabbitmq/rabbitmq-server](https://github.com/rabbitmq/rabbitmq-server) - Open source RabbitMQ: core server and tier 1 (built-in) plugins
 
+## Shell
+
+*   [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
+
+*   [Sitoi/dailycheckin](https://github.com/Sitoi/dailycheckin) - 基于【腾讯云函数】/【Docker】/【青龙面板】/【elecV2P】/【群晖】的每日签到脚本（支持多账号使用）签到列表: ｜爱奇艺｜全民K歌｜有道云笔记｜百度贴吧｜Bilibili｜V2EX｜AcFun｜天翼云盘｜Fa米家｜小米运动｜百度搜索资源平台｜
+
+*   [lmc999/RegionRestrictionCheck](https://github.com/lmc999/RegionRestrictionCheck) - A bash script to check if your VPS's IP is available for various OTT platforms
+
 ## Squirrel
 
 *   [ghostcap-gaming/Zombie-Escape-Configs-CS-GO](https://github.com/ghostcap-gaming/Zombie-Escape-Configs-CS-GO) - Here you will find the map Stripper, Bosshud (Bhud), Entwatch and map configs that are use on GhostCap Zombie Escape servers.
@@ -465,12 +471,6 @@
 ## PowerShell
 
 *   [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11
-
-## Shell
-
-*   [Sitoi/dailycheckin](https://github.com/Sitoi/dailycheckin) - 基于【腾讯云函数】/【Docker】/【青龙面板】/【elecV2P】/【群晖】的每日签到脚本（支持多账号使用）签到列表: ｜爱奇艺｜全民K歌｜有道云笔记｜百度贴吧｜Bilibili｜V2EX｜AcFun｜天翼云盘｜Fa米家｜小米运动｜百度搜索资源平台｜
-
-*   [lmc999/RegionRestrictionCheck](https://github.com/lmc999/RegionRestrictionCheck) - A bash script to check if your VPS's IP is available for various OTT platforms
 
 ## CMake
 
