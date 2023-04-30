@@ -44,6 +44,8 @@
 
 ## Python
 
+*   [TeamPGM/PagerMaid-Pyro](https://github.com/TeamPGM/PagerMaid-Pyro) - Advanced Multi-Featured Telegram UserBot by pyrogram.
+
 *   [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 
 *   [Ukenn2112/BangumiTelegramBot](https://github.com/Ukenn2112/BangumiTelegramBot) - 在 Telegram 上简单操作 Bangumi
@@ -81,8 +83,6 @@
 *   [lifegpc/bili](https://github.com/lifegpc/bili) - A tool to download barrage/video from bilibili/acfun. Support English, Japanese and Chinese(China).一个Python编写的从Bilibili/Acfun下载弹幕/视频的工具。支持英语、日语和中文（中国）。（WEBGUI正在路上）
 
 *   [wdjoys/pt-tools](https://github.com/wdjoys/pt-tools) - pt自动签到,说谢谢,刷魔力,登录保号
-
-*   [MoyuScript/bilibili-api](https://github.com/MoyuScript/bilibili-api) - 哔哩哔哩的API调用模块
 
 ## miscellaneous
 
@@ -488,7 +488,7 @@
 
 ## HTML
 
-*   [ybdt/poc-hub](https://github.com/ybdt/poc-hub) - 漏洞复现
+*   [ybdt/exp-hub](https://github.com/ybdt/exp-hub) - 漏洞检测、漏洞利用
 
 ## Thanks
 
