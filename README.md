@@ -140,8 +140,6 @@
 
 *   [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) - 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
 
-*   [funkyoummp/BurpSuiteCn](https://github.com/funkyoummp/BurpSuiteCn) - Burp Suite  汉化 中文
-
 ## TypeScript
 
 *   [cross-seed/cross-seed](https://github.com/cross-seed/cross-seed) - Fully-automatic cross-seeding with Torznab
@@ -212,6 +210,8 @@
 
 *   [Mr-xn/BurpSuite-collections](https://github.com/Mr-xn/BurpSuite-collections) - 有关burpsuite的插件(非商店),文章以及使用技巧的收集(此项目不再提供burpsuite破解文件,如需要请在博客mrxn.net下载)---Collection of burpsuite plugins (non-stores), articles and tips for using Burpsuite, no crack version file
 
+*   [lifegpc/bili](https://github.com/lifegpc/bili) - A tool to download barrage/video from bilibili/acfun. Support English, Japanese and Chinese(China).一个Python编写的从Bilibili/Acfun下载弹幕/视频的工具。支持英语、日语和中文（中国）。（WEBGUI正在路上）
+
 ## Java
 
 *   [Dar9586/NClientV2](https://github.com/Dar9586/NClientV2) - An unofficial NHentai android client
@@ -242,7 +242,7 @@
 
 *   [shuzheng/zheng](https://github.com/shuzheng/zheng) - 基于Spring+SpringMVC+Mybatis分布式敏捷开发系统架构，提供整套公共微服务服务模块：集中权限管理（单点登录）、内容管理、支付中心、用户管理（支持第三方登录）、微信平台、存储系统、配置中心、日志分析、任务和通知等，支持服务治理、监控和追踪，努力为中小型企业打造全方位J2EE企业级开发解决方案。
 
-*   [elunez/eladmin](https://github.com/elunez/eladmin) - 项目基于 Spring Boot 2.6.4、 Jpa、 Spring Security、Redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
+*   [elunez/eladmin](https://github.com/elunez/eladmin) - eladmin jpa 版本：项目基于 Spring Boot 2.6.4、 Jpa、 Spring Security、Redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
 
 *   [shvetsgroup/squirrel-lang-idea-plugin](https://github.com/shvetsgroup/squirrel-lang-idea-plugin) - Squirrel language integration with IntelliJ IDEA.
 
