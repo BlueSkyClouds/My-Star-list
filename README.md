@@ -168,8 +168,6 @@
 
 *   [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
 
-*   [Sarrus1/sourcepawn-vscode](https://github.com/Sarrus1/sourcepawn-vscode) - VSCode extension for SourcePawn scripting
-
 *   [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
 
 ## Python
@@ -321,6 +319,8 @@
 *   [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 
 *   [shadowsocks/shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) - A Rust port of shadowsocks
+
+*   [Sarrus1/sourcepawn-vscode](https://github.com/Sarrus1/sourcepawn-vscode) - VSCode extension for SourcePawn scripting
 
 ## C++
 
