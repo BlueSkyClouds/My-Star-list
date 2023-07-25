@@ -44,6 +44,8 @@
 
 ## JavaScript
 
+*   [mo-jinran/LiteLoaderQQNT](https://github.com/mo-jinran/LiteLoaderQQNT) - QQNT的插件加载器：LiteLoaderQQNT —— 轻量 · 简洁 · 开源
+
 *   [AnotiaWang/AntiChannelSpammersBot](https://github.com/AnotiaWang/AntiChannelSpammersBot) - A Telegram bot that can delete messages from users appearing as channels, also messages from anonymous admins and the linked channels.
 
 *   [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
@@ -148,7 +150,7 @@
 
 *   [czy0729/Bangumi](https://github.com/czy0729/Bangumi) - :electron: An unofficial https://bgm.tv app client for Android and iOS, built with React Native. 一个无广告、以爱好为驱动、不以盈利为目的第三方客户端。简单比喻就是专门做 ACG 的类似豆瓣的应用。专门为移动端重新设计，内置大量加强、网页端难以实现的功能，且提供了相当的自定义选项，已适配 iOS / Android / WSA、mobile / 简单 pad、light / dark theme、移动端 SPA。
 
-*   [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
+*   [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
 
 *   [octokit/webhooks](https://github.com/octokit/webhooks) - machine-readable, always up-to-date GitHub Webhooks specifications
 
@@ -207,8 +209,6 @@
 *   [shmilylty/OneForAll](https://github.com/shmilylty/OneForAll) - OneForAll是一款功能强大的子域收集工具
 
 *   [Mr-xn/BurpSuite-collections](https://github.com/Mr-xn/BurpSuite-collections) - 有关burpsuite的插件(非商店),文章以及使用技巧的收集(此项目不再提供burpsuite破解文件,如需要请在博客mrxn.net下载)---Collection of burpsuite plugins (non-stores), articles and tips for using Burpsuite, no crack version file
-
-*   [lifegpc/bili](https://github.com/lifegpc/bili) - A tool to download barrage/video from bilibili/acfun. Support English, Japanese and Chinese(China).一个Python编写的从Bilibili/Acfun下载弹幕/视频的工具。支持英语、日语和中文（中国）。（WEBGUI正在路上）
 
 ## Java
 
