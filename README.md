@@ -44,6 +44,8 @@
 
 ## Python
 
+*   [scp-079/scp-079-warn](https://github.com/scp-079/scp-079-warn) - Warn or ban someone by admin commands
+
 *   [eternnoir/pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI) - Python Telegram bot api.
 
 *   [TeamPGM/PagerMaid-Pyro](https://github.com/TeamPGM/PagerMaid-Pyro) - Advanced Multi-Featured Telegram UserBot by pyrogram.
@@ -159,8 +161,6 @@
 *   [TeamAOF/All-of-Fabric-3](https://github.com/TeamAOF/All-of-Fabric-3) - Modpack containing the latest & best Fabric mods
 
 *   [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
-
-*   [chavyleung/scripts](https://github.com/chavyleung/scripts) - BoxJs
 
 ## miscellaneous
 
