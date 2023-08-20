@@ -16,6 +16,7 @@
 
 ## Table of Contents
 
+*   [PowerShell](#powershell)
 *   [PHP](#php)
 *   [Python](#python)
 *   [TypeScript](#typescript)
@@ -36,11 +37,16 @@
 *   [Shell](#shell)
 *   [Squirrel](#squirrel)
 *   [Vue](#vue)
-*   [PowerShell](#powershell)
 *   [CMake](#cmake)
 *   [Dart](#dart)
 *   [HTML](#html)
 *   [Thanks](#thanks)
+
+## PowerShell
+
+*   [EhTagTranslation/Database](https://github.com/EhTagTranslation/Database) - EhTagTranslation 项目的翻译数据。
+
+*   [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11
 
 ## PHP
 
@@ -378,8 +384,6 @@
 
 *   [perilouswithadollarsign/cstrike15\_src](https://github.com/perilouswithadollarsign/cstrike15_src) - Leak of CS:GO Source code, provided by yours truly so go rep me
 
-*   [icylovey/CZElauncher](https://github.com/icylovey/CZElauncher) -
-
 ## Markdown
 
 *   [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
@@ -473,10 +477,6 @@
 *   [xugaoyi/vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing) - 🚀一款简洁高效的VuePress知识管理&博客(blog)主题
 
 *   [sapic/sapic](https://github.com/sapic/sapic) - A useful tool to crop your Steam profile background for showcases.
-
-## PowerShell
-
-*   [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11
 
 ## CMake
 
