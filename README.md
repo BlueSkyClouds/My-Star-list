@@ -22,6 +22,7 @@
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [miscellaneous](#miscellaneous)
+*   [Jupyter Notebook](#jupyter-notebook)
 *   [Java](#java)
 *   [C#](#c)
 *   [Go](#go)
@@ -63,8 +64,6 @@
 *   [eternnoir/pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI) - Python Telegram bot api.
 
 *   [TeamPGM/PagerMaid-Pyro](https://github.com/TeamPGM/PagerMaid-Pyro) - Advanced Multi-Featured Telegram UserBot by pyrogram.
-
-*   [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 
 *   [Ukenn2112/BangumiTelegramBot](https://github.com/Ukenn2112/BangumiTelegramBot) - 在 Telegram 上简单操作 Bangumi
 
@@ -225,6 +224,10 @@
 *   [Tencent/secguide](https://github.com/Tencent/secguide) - 面向开发人员梳理的代码安全指南
 
 *   [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) - 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
+
+## Jupyter Notebook
+
+*   [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 
 ## Java
 
