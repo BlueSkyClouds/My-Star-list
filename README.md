@@ -32,7 +32,7 @@
 *   [SourcePawn](#sourcepawn)
 *   [CSS](#css)
 *   [C](#c-2)
-*   [HLSL](#hlsl)
+*   [ShaderLab](#shaderlab)
 *   [Starlark](#starlark)
 *   [Squirrel](#squirrel)
 *   [Vue](#vue)
@@ -450,7 +450,7 @@
 
 *   [openwrt/openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
 
-## HLSL
+## ShaderLab
 
 *   [ColinLeung-NiloCat/UnityURPToonLitShaderExample](https://github.com/ColinLeung-NiloCat/UnityURPToonLitShaderExample) - A very simple toon lit shader example, for you to learn writing custom lit shader in Unity URP
 
