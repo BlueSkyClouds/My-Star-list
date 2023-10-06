@@ -32,6 +32,7 @@
 *   [SourcePawn](#sourcepawn)
 *   [CSS](#css)
 *   [C](#c-2)
+*   [Ruby](#ruby)
 *   [ShaderLab](#shaderlab)
 *   [Starlark](#starlark)
 *   [Squirrel](#squirrel)
@@ -191,8 +192,6 @@
 *   [anyabc/something](https://github.com/anyabc/something) -
 
 *   [yonghen/chimi-](https://github.com/yonghen/chimi-) - MIUI13/MIUI14 增强扩展模块 (LSPosed/Xposed) MIUI13/MIUI14 MIUI enhancement extension module
-
-*   [community/community](https://github.com/community/community) - Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more!
 
 *   [HaruhanaSub/Haruhana-Fansub](https://github.com/HaruhanaSub/Haruhana-Fansub) - 拨雪寻春，烧灯续昼…
 
@@ -449,6 +448,10 @@
 *   [lua/lua](https://github.com/lua/lua) - The Lua development repository, as seen by the Lua team. Mirrored irregularly. Please DO NOT send pull requests. Report issues in the Lua mailing list https://www.lua.org/lua-l.html
 
 *   [openwrt/openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
+
+## Ruby
+
+*   [community/community](https://github.com/community/community) - Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more!
 
 ## ShaderLab
 
