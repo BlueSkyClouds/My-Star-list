@@ -247,7 +247,7 @@
 
 *   [hub4j/github-api](https://github.com/hub4j/github-api) - Java API for GitHub
 
-*   [oracle/graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket:
+*   [oracle/graal](https://github.com/oracle/graal) - GraalVM compiles Java applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀
 
 *   [WorldQL/mammoth](https://github.com/WorldQL/mammoth) - Scale a single world horizontally across multiple Minecraft servers.
 
