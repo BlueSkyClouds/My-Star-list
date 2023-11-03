@@ -191,8 +191,6 @@
 
 *   [BlueSkyClouds/My-Star-list](https://github.com/BlueSkyClouds/My-Star-list) -
 
-*   [anyabc/something](https://github.com/anyabc/something) -
-
 *   [yonghen/chimi-](https://github.com/yonghen/chimi-) - MIUI13/MIUI14 增强扩展模块 (LSPosed/Xposed) MIUI13/MIUI14 MIUI enhancement extension module
 
 *   [HaruhanaSub/Haruhana-Fansub](https://github.com/HaruhanaSub/Haruhana-Fansub) - 拨雪寻春，烧灯续昼…
@@ -214,8 +212,6 @@
 *   [ValveSoftware/csgo-osx-linux](https://github.com/ValveSoftware/csgo-osx-linux) - Counter-Strike: Global Offensive
 
 *   [broken5/bscan](https://github.com/broken5/bscan) -
-
-*   [Fndroid/clash\_for\_windows\_pkg](https://github.com/Fndroid/clash_for_windows_pkg) - A Windows/macOS GUI based on Clash
 
 *   [Mapeadores/CSGO-Dumps](https://github.com/Mapeadores/CSGO-Dumps) -
 
@@ -387,6 +383,8 @@
 
 *   [perilouswithadollarsign/cstrike15\_src](https://github.com/perilouswithadollarsign/cstrike15_src) - Leak of CS:GO Source code, provided by yours truly so go rep me
 
+*   [icylovey/CZElauncher](https://github.com/icylovey/CZElauncher) -
+
 ## Markdown
 
 *   [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
@@ -424,6 +422,8 @@
 *   [ChisBread/transmission\_skip\_patch](https://github.com/ChisBread/transmission_skip_patch) - 为transmission v3.0 增加 "快速校验" 功能
 
 *   [ronggang/transmission-web-control](https://github.com/ronggang/transmission-web-control) - 一个 Transmission 浏览器管理界面。Transmission Web Control is a custom web UI.
+
+*   [WebStackPage/WebStackPage.github.io](https://github.com/WebStackPage/WebStackPage.github.io) - ❤️静态响应式网址导航网站 - webstack.cc
 
 ## C
 
