@@ -67,8 +67,6 @@
 
 *   [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
 
-*   [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
-
 *   [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 
 *   [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
@@ -162,6 +160,8 @@
 *   [spiritLHL/Hang-up-items](https://github.com/spiritLHL/Hang-up-items) - 问卷调查项目，云服务器推荐，挂机项目，各种脚本收集，部分github链接已反代理加速，可国内直连。欢迎右上角watch及时收取更新信息。(不要fork和star，低调)
 
 *   [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
+
+*   [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
 
 *   [anthonyjgrove/react-google-login](https://github.com/anthonyjgrove/react-google-login) - A React Google Login Component
 
