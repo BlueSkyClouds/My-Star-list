@@ -26,7 +26,6 @@
 *   [C#](#c)
 *   [Go](#go)
 *   [Kotlin](#kotlin)
-*   [Rust](#rust)
 *   [C++](#c-1)
 *   [Markdown](#markdown)
 *   [SourcePawn](#sourcepawn)
@@ -35,6 +34,7 @@
 *   [Ruby](#ruby)
 *   [ShaderLab](#shaderlab)
 *   [Starlark](#starlark)
+*   [Rust](#rust)
 *   [Squirrel](#squirrel)
 *   [Vue](#vue)
 *   [Shell](#shell)
@@ -181,6 +181,8 @@
 
 *   [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 
+*   [chavyleung/scripts](https://github.com/chavyleung/scripts) - BoxJs
+
 ## miscellaneous
 
 *   [ekibot/bangumi-link](https://github.com/ekibot/bangumi-link) -
@@ -323,16 +325,6 @@
 
 *   [HMBSbige/ShadowsocksR-Android](https://github.com/HMBSbige/ShadowsocksR-Android) - 【自用】咕咕咕
 
-## Rust
-
-*   [qini7-sese/eh2telegraph](https://github.com/qini7-sese/eh2telegraph) -
-
-*   [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
-
-*   [shadowsocks/shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) - A Rust port of shadowsocks
-
-*   [Sarrus1/sourcepawn-vscode](https://github.com/Sarrus1/sourcepawn-vscode) - VSCode extension for SourcePawn scripting
-
 ## C++
 
 *   [alliedmodders/hl2sdk](https://github.com/alliedmodders/hl2sdk) - Half-Life 2 SDK Mirrors
@@ -460,6 +452,14 @@
 ## Starlark
 
 *   [rabbitmq/rabbitmq-server](https://github.com/rabbitmq/rabbitmq-server) - Open source RabbitMQ: core server and tier 1 (built-in) plugins
+
+## Rust
+
+*   [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
+
+*   [shadowsocks/shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) - A Rust port of shadowsocks
+
+*   [Sarrus1/sourcepawn-vscode](https://github.com/Sarrus1/sourcepawn-vscode) - VSCode extension for SourcePawn scripting
 
 ## Squirrel
 
