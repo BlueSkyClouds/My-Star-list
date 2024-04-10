@@ -164,7 +164,7 @@
 
 *   [EstrellaXD/Auto\_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) - AutoBangumi - 全自动追番工具
 
-*   [redis/redis-py](https://github.com/redis/redis-py) - Redis Python Client
+*   [redis/redis-py](https://github.com/redis/redis-py) - Redis Python client
 
 *   [666wcy/pikpakdown](https://github.com/666wcy/pikpakdown) -
 
