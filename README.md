@@ -242,8 +242,6 @@
 
 *   [shmilylty/OneForAll](https://github.com/shmilylty/OneForAll) - OneForAll是一款功能强大的子域收集工具
 
-*   [Mr-xn/BurpSuite-collections](https://github.com/Mr-xn/BurpSuite-collections) - 有关burpsuite的插件(非商店),文章以及使用技巧的收集(此项目不再提供burpsuite破解文件,如需要请在博客mrxn.net下载)---Collection of burpsuite plugins (non-stores), articles and tips for using Burpsuite, no crack version file
-
 ## miscellaneous
 
 *   [ekibot/bangumi-link](https://github.com/ekibot/bangumi-link) -
@@ -495,6 +493,8 @@
 ## HTML
 
 *   [ybdt/exp-hub](https://github.com/ybdt/exp-hub) - 漏洞复现
+
+*   [Mr-xn/BurpSuite-collections](https://github.com/Mr-xn/BurpSuite-collections) - 有关burpsuite的插件(非商店),文章以及使用技巧的收集(此项目不再提供burpsuite破解文件,如需要请在博客mrxn.net下载)---Collection of burpsuite plugins (non-stores), articles and tips for using Burpsuite, no crack version file
 
 ## Thanks
 
