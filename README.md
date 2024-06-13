@@ -462,7 +462,7 @@
 
 *   [shadowsocks/shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) - A Rust port of shadowsocks
 
-*   [Sarrus1/sourcepawn-vscode](https://github.com/Sarrus1/sourcepawn-vscode) - VSCode extension for SourcePawn scripting
+*   [Sarrus1/sourcepawn-studio](https://github.com/Sarrus1/sourcepawn-studio) - VSCode extension for SourcePawn scripting
 
 ## Squirrel
 
