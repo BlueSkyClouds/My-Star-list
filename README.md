@@ -16,8 +16,8 @@
 
 ## Table of Contents
 
-*   [C++](#c)
-*   [C#](#c-1)
+*   [C#](#c)
+*   [C++](#c-1)
 *   [Go](#go)
 *   [JavaScript](#javascript)
 *   [Dockerfile](#dockerfile)
@@ -43,6 +43,44 @@
 *   [Dart](#dart)
 *   [HTML](#html)
 *   [Thanks](#thanks)
+
+## C\#
+
+*   [ianlucas/cs2-inventory-simulator-plugin](https://github.com/ianlucas/cs2-inventory-simulator-plugin) - A CounterStrikeSharp plugin for integrating with CS2 Inventory Simulator
+
+*   [roflmuffin/CounterStrikeSharp](https://github.com/roflmuffin/CounterStrikeSharp) - CounterStrikeSharp allows you to write server plugins in C# for Counter-Strike 2/Source2/CS2
+
+*   [fuxin052/Emby.Plugins.Bangumi](https://github.com/fuxin052/Emby.Plugins.Bangumi) - 从bangumi为emby获取元数据
+
+*   [kookxiang/jellyfin-plugin-bangumi](https://github.com/kookxiang/jellyfin-plugin-bangumi) - bgm.tv plugin for jellyfin
+
+*   [MediaBrowser/Emby.Plugins.MyAnimeList](https://github.com/MediaBrowser/Emby.Plugins.MyAnimeList) -
+
+*   [MediaBrowser/Emby.Plugins.Anime](https://github.com/MediaBrowser/Emby.Plugins.Anime) - An anime metadata provider for Emby
+
+*   [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) - :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
+
+*   [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
+
+*   [JavScraper/Emby.Plugins.JavScraper](https://github.com/JavScraper/Emby.Plugins.JavScraper) - Emby/Jellyfin 的一个日本电影刮削器插件，可以从某些网站抓取影片信息。
+
+*   [Jessecar96/SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) - Desktop implementation of Steam's mobile authenticator app
+
+*   [MediaBrowser/Emby](https://github.com/MediaBrowser/Emby) - Emby Server is a personal media server with apps on just about every device.
+
+*   [arition/SubRenamer](https://github.com/arition/SubRenamer) - Rename subtitles for BDRip
+
+*   [Sophia-Community/SophiApp](https://github.com/Sophia-Community/SophiApp) - :zap: The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11
+
+*   [PixeyeHQ/actors.unity](https://github.com/PixeyeHQ/actors.unity) - 🚀Actors is a framework empowering developers to make better games faster on Unity.
+
+*   [Tayx94/graphy](https://github.com/Tayx94/graphy) - Graphy is the ultimate, easy to use, feature packed FPS counter, stats monitor and debugger for your Unity project.
+
+*   [SixLabors/ImageSharp](https://github.com/SixLabors/ImageSharp) - :camera: A modern, cross-platform, 2D Graphics library for .NET
+
+*   [Richasy/Bili.Uwp](https://github.com/Richasy/Bili.Uwp) - 适用于新系统UI的哔哩
+
+*   [hanmin0822/MisakaTranslator](https://github.com/hanmin0822/MisakaTranslator) - 御坂翻译器—Galgame/文字游戏/漫画多语种实时机翻工具
 
 ## C++
 
@@ -97,42 +135,6 @@
 *   [nosoop/SMExt-EntityLump](https://github.com/nosoop/SMExt-EntityLump) - SourceMod extension to parse entity lumps.
 
 *   [perilouswithadollarsign/cstrike15\_src](https://github.com/perilouswithadollarsign/cstrike15_src) - Leak of CS:GO Source code, provided by yours truly so go rep me
-
-## C\#
-
-*   [roflmuffin/CounterStrikeSharp](https://github.com/roflmuffin/CounterStrikeSharp) - CounterStrikeSharp allows you to write server plugins in C# for Counter-Strike 2/Source2/CS2
-
-*   [fuxin052/Emby.Plugins.Bangumi](https://github.com/fuxin052/Emby.Plugins.Bangumi) - 从bangumi为emby获取元数据
-
-*   [kookxiang/jellyfin-plugin-bangumi](https://github.com/kookxiang/jellyfin-plugin-bangumi) - bgm.tv plugin for jellyfin
-
-*   [MediaBrowser/Emby.Plugins.MyAnimeList](https://github.com/MediaBrowser/Emby.Plugins.MyAnimeList) -
-
-*   [MediaBrowser/Emby.Plugins.Anime](https://github.com/MediaBrowser/Emby.Plugins.Anime) - An anime metadata provider for Emby
-
-*   [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) - :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
-
-*   [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
-
-*   [JavScraper/Emby.Plugins.JavScraper](https://github.com/JavScraper/Emby.Plugins.JavScraper) - Emby/Jellyfin 的一个日本电影刮削器插件，可以从某些网站抓取影片信息。
-
-*   [Jessecar96/SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) - Desktop implementation of Steam's mobile authenticator app
-
-*   [MediaBrowser/Emby](https://github.com/MediaBrowser/Emby) - Emby Server is a personal media server with apps on just about every device.
-
-*   [arition/SubRenamer](https://github.com/arition/SubRenamer) - Rename subtitles for BDRip
-
-*   [Sophia-Community/SophiApp](https://github.com/Sophia-Community/SophiApp) - :zap: The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11
-
-*   [PixeyeHQ/actors.unity](https://github.com/PixeyeHQ/actors.unity) - 🚀Actors is a framework empowering developers to make better games faster on Unity.
-
-*   [Tayx94/graphy](https://github.com/Tayx94/graphy) - Graphy is the ultimate, easy to use, feature packed FPS counter, stats monitor and debugger for your Unity project.
-
-*   [SixLabors/ImageSharp](https://github.com/SixLabors/ImageSharp) - :camera: A modern, cross-platform, 2D Graphics library for .NET
-
-*   [Richasy/Bili.Uwp](https://github.com/Richasy/Bili.Uwp) - 适用于新系统UI的哔哩
-
-*   [hanmin0822/MisakaTranslator](https://github.com/hanmin0822/MisakaTranslator) - 御坂翻译器—Galgame/文字游戏/漫画多语种实时机翻工具
 
 ## Go
 
@@ -199,8 +201,6 @@
 *   [blinkfox/hexo-theme-matery](https://github.com/blinkfox/hexo-theme-matery) - A beautiful hexo blog theme with material design and responsive design.一个基于材料设计和响应式设计而成的全面、美观的Hexo主题。国内访问：http://blinkfox.com
 
 *   [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
-
-*   [TeamAOF/All-of-Fabric-3](https://github.com/TeamAOF/All-of-Fabric-3) - Modpack containing the latest & best Fabric mods
 
 ## Dockerfile
 
