@@ -16,6 +16,7 @@
 
 ## Table of Contents
 
+*   [Rust](#rust)
 *   [C#](#c)
 *   [C++](#c-1)
 *   [Go](#go)
@@ -35,7 +36,6 @@
 *   [Ruby](#ruby)
 *   [ShaderLab](#shaderlab)
 *   [Starlark](#starlark)
-*   [Rust](#rust)
 *   [Squirrel](#squirrel)
 *   [Vue](#vue)
 *   [Shell](#shell)
@@ -43,6 +43,14 @@
 *   [Dart](#dart)
 *   [HTML](#html)
 *   [Thanks](#thanks)
+
+## Rust
+
+*   [a2x/cs2-dumper](https://github.com/a2x/cs2-dumper) - Counter-Strike: 2 Offset Dumper
+
+*   [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
+
+*   [shadowsocks/shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) - A Rust port of shadowsocks
 
 ## C\#
 
@@ -457,14 +465,6 @@
 ## Starlark
 
 *   [rabbitmq/rabbitmq-server](https://github.com/rabbitmq/rabbitmq-server) - Open source RabbitMQ: core server and tier 1 (built-in) plugins
-
-## Rust
-
-*   [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
-
-*   [shadowsocks/shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) - A Rust port of shadowsocks
-
-*   [Sarrus1/sourcepawn-studio](https://github.com/Sarrus1/sourcepawn-studio) - VSCode extension for SourcePawn scripting
 
 ## Squirrel
 
