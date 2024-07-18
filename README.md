@@ -332,8 +332,6 @@
 
 *   [mouse0w0/MinecraftDeveloperGuide](https://github.com/mouse0w0/MinecraftDeveloperGuide) - 📝Minecraft developer Chinese guide，我的世界开发者中文指南
 
-*   [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA Community Edition & IntelliJ Platform
-
 *   [ValveSoftware/csgo-osx-linux](https://github.com/ValveSoftware/csgo-osx-linux) - Counter-Strike: Global Offensive
 
 *   [broken5/bscan](https://github.com/broken5/bscan) -
@@ -367,6 +365,8 @@
 *   [grpc/grpc-java](https://github.com/grpc/grpc-java) - The Java gRPC implementation. HTTP/2 based RPC
 
 *   [hub4j/github-api](https://github.com/hub4j/github-api) - Java API for GitHub
+
+*   [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA Community Edition & IntelliJ Platform
 
 *   [oracle/graal](https://github.com/oracle/graal) - GraalVM compiles Java applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀
 
@@ -494,7 +494,7 @@
 
 ## HTML
 
-*   [ybdt/exp-hub](https://github.com/ybdt/exp-hub) - 漏洞复现
+*   [ybdt/exp-hub](https://github.com/ybdt/exp-hub) - 漏洞复现及武器化
 
 ## Thanks
 
