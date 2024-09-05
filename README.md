@@ -35,7 +35,6 @@
 *   [C](#c-2)
 *   [Ruby](#ruby)
 *   [ShaderLab](#shaderlab)
-*   [Starlark](#starlark)
 *   [Squirrel](#squirrel)
 *   [Vue](#vue)
 *   [Shell](#shell)
@@ -181,6 +180,8 @@
 *   [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
 
 *   [kysdm/u2\_share](https://github.com/kysdm/u2_share) -
+
+*   [rabbitmq/rabbitmq-server](https://github.com/rabbitmq/rabbitmq-server) - Open source RabbitMQ: core server and tier 1 (built-in) plugins
 
 *   [code-farmer-i/vue-markdown-editor](https://github.com/code-farmer-i/vue-markdown-editor) - A markdown editor built on Vue
 
@@ -461,10 +462,6 @@
 ## ShaderLab
 
 *   [ColinLeung-NiloCat/UnityURPToonLitShaderExample](https://github.com/ColinLeung-NiloCat/UnityURPToonLitShaderExample) - A very simple toon lit shader example, for you to learn writing custom lit shader in Unity URP
-
-## Starlark
-
-*   [rabbitmq/rabbitmq-server](https://github.com/rabbitmq/rabbitmq-server) - Open source RabbitMQ: core server and tier 1 (built-in) plugins
 
 ## Squirrel
 
