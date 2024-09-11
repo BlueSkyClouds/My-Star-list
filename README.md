@@ -63,6 +63,8 @@
 
 *   [x64dbg/ScyllaHide](https://github.com/x64dbg/ScyllaHide) - Advanced usermode anti-anti-debugger. Forked from https://bitbucket.org/NtQuery/scyllahide
 
+*   [alliedmodders/sourcemod](https://github.com/alliedmodders/sourcemod) - SourceMod - Source Engine Scripting and Administration
+
 *   [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
 
 *   [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
@@ -434,8 +436,6 @@
 ## C
 
 *   [ErikMinekus/sm-ripext](https://github.com/ErikMinekus/sm-ripext) - SourceMod REST in Pawn Extension
-
-*   [alliedmodders/sourcemod](https://github.com/alliedmodders/sourcemod) - SourceMod - Source Engine Scripting and Administration
 
 *   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 
