@@ -16,6 +16,7 @@
 
 ## Table of Contents
 
+*   [Shell](#shell)
 *   [C++](#c)
 *   [C#](#c-1)
 *   [Rust](#rust)
@@ -38,11 +39,16 @@
 *   [Squirrel](#squirrel)
 *   [Vue](#vue)
 *   [Vim Snippet](#vim-snippet)
-*   [Shell](#shell)
 *   [CMake](#cmake)
 *   [Dart](#dart)
 *   [HTML](#html)
 *   [Thanks](#thanks)
+
+## Shell
+
+*   [juewuy/ShellCrash](https://github.com/juewuy/ShellCrash) - Run sing-box/mihomo as client in shell
+
+*   [lmc999/RegionRestrictionCheck](https://github.com/lmc999/RegionRestrictionCheck) - A bash script to check the status of your IP on various geo-restricted services.
 
 ## C++
 
@@ -474,15 +480,9 @@
 
 *   [xugaoyi/vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing) - 🚀一款简洁高效的VuePress知识管理&博客(blog)主题
 
-*   [sapic/sapic](https://github.com/sapic/sapic) - A useful tool to crop your Steam profile background for showcases.
-
 ## Vim Snippet
 
 *   [VirgilClyne/iRingo](https://github.com/VirgilClyne/iRingo) - 解锁完整的 Apple功能和集成服务
-
-## Shell
-
-*   [lmc999/RegionRestrictionCheck](https://github.com/lmc999/RegionRestrictionCheck) - A bash script to check the status of your IP on various geo-restricted services.
 
 ## CMake
 
