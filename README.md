@@ -494,7 +494,7 @@
 
 ## HTML
 
-*   [ybdt/exp-hub](https://github.com/ybdt/exp-hub) - 漏洞复现及武器化
+*   [ybdt/exp-hub](https://github.com/ybdt/exp-hub) - 漏洞复现
 
 ## Thanks
 
