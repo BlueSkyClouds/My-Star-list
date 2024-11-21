@@ -38,7 +38,6 @@
 *   [ShaderLab](#shaderlab)
 *   [Squirrel](#squirrel)
 *   [Vue](#vue)
-*   [Vim Snippet](#vim-snippet)
 *   [CMake](#cmake)
 *   [Dart](#dart)
 *   [HTML](#html)
@@ -334,6 +333,8 @@
 
 *   [ficool2/HammerPlusPlus-Issue-Tracker](https://github.com/ficool2/HammerPlusPlus-Issue-Tracker) - Bug and feature request tracker for Hammer++
 
+*   [VirgilClyne/iRingo](https://github.com/VirgilClyne/iRingo) - 解锁完整的 Apple功能和集成服务
+
 *   [EtherDream/web-frontend-magic](https://github.com/EtherDream/web-frontend-magic) - #前端黑魔法# 整理
 
 *   [mouse0w0/BungeeCord-CN-Translation](https://github.com/mouse0w0/BungeeCord-CN-Translation) - BungeeCord Plugin Development Chinese translation，《BungeeCord插件开发》中文翻译
@@ -479,10 +480,6 @@
 *   [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
 
 *   [xugaoyi/vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing) - 🚀一款简洁高效的VuePress知识管理&博客(blog)主题
-
-## Vim Snippet
-
-*   [VirgilClyne/iRingo](https://github.com/VirgilClyne/iRingo) - 解锁完整的 Apple功能和集成服务
 
 ## CMake
 
