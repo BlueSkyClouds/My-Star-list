@@ -453,7 +453,7 @@
 
 *   [cokemine/ServerStatus-Hotaru](https://github.com/cokemine/ServerStatus-Hotaru) - 云探针、多服务器探针、云监控、多服务器云监控
 
-*   [cesanta/mongoose](https://github.com/cesanta/mongoose) - Embedded Web Server
+*   [cesanta/mongoose](https://github.com/cesanta/mongoose) - Embedded TCP/IP network stack with embedded web server, Websocket, and MQTT client
 
 *   [alliedmodders/stripper-source](https://github.com/alliedmodders/stripper-source) - Stripper:Source
 
