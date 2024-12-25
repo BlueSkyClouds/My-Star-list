@@ -325,7 +325,7 @@
 
 *   [yonghen/chimi-](https://github.com/yonghen/chimi-) - MIUI13/MIUI14 增强扩展模块 (LSPosed/Xposed) MIUI13/MIUI14 MIUI enhancement extension module
 
-*   [HaruhanaSub/Haruhana-Fansub](https://github.com/HaruhanaSub/Haruhana-Fansub) - 拨雪寻春，烧灯续昼…
+*   [HaruhanaSub/HaruhanaSub](https://github.com/HaruhanaSub/HaruhanaSub) - The subtitle files in this repository are created and shared by Haruhana Funsub. If you find any errors, please feel free to report them via issues, forms, or email.
 
 *   [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 
