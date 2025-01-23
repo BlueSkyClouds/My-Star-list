@@ -413,7 +413,7 @@
 
 *   [Franc1sco/Fortnite-Emotes-Extended](https://github.com/Franc1sco/Fortnite-Emotes-Extended) - Fortnite Emotes plugin with all the private emotes included
 
-*   [fbef0102/L4D1\_2-Plugins](https://github.com/fbef0102/L4D1_2-Plugins) - L4D1/2 help server to record, make server more fun, and more useful plugins for adm.
+*   [fbef0102/L4D1\_2-Plugins](https://github.com/fbef0102/L4D1_2-Plugins) - L4D1/2 enhancement, bug/glitch fixes, freaky-fun, and useful plugins.
 
 *   [surftimer/SurfTimer](https://github.com/surftimer/SurfTimer) - This repository is a continuation of cksurf, originally developed by jonitaikaponi, sneaK, nikoo77, fluffys. Meant to unite developers, so everybody can host a proper surf server.
 
