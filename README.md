@@ -241,8 +241,6 @@
 
 *   [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 
-*   [spiritLHL/Hang-up-items](https://github.com/spiritLHL/Hang-up-items) - 问卷调查项目，云服务器推荐，挂机项目，各种脚本收集，部分github链接已反代理加速，可国内直连。欢迎右上角watch及时收取更新信息。(不要fork和star，低调)
-
 *   [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file\_folder: A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 
 *   [anthonyjgrove/react-google-login](https://github.com/anthonyjgrove/react-google-login) - A React Google Login Component
@@ -480,6 +478,8 @@
 *   [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
 
 *   [xugaoyi/vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing) - 🚀一款简洁高效的VuePress知识管理&博客(blog)主题
+
+*   [sapic/sapic](https://github.com/sapic/sapic) - A useful tool to crop your Steam profile background for showcases.
 
 ## CMake
 
