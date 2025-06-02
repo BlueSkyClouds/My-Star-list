@@ -435,7 +435,7 @@
 
 *   [ChisBread/transmission\_skip\_patch](https://github.com/ChisBread/transmission_skip_patch) - 为transmission v3.0 增加 "快速校验" 功能
 
-*   [ronggang/transmission-web-control](https://github.com/ronggang/transmission-web-control) - 一个 Transmission 浏览器管理界面。Transmission Web Control is a custom web UI.
+*   [ronggang/transmission-web-control](https://github.com/ronggang/transmission-web-control) - 一个 Transmission 浏览器管理界面。Transmission Web Control is a custom web UI. （该项目不再维护。）
 
 ## C
 
