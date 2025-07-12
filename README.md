@@ -491,7 +491,7 @@
 
 ## Dart
 
-*   [niuhuan/pikapika](https://github.com/niuhuan/pikapika) - 哔咔漫画三方。A comic browser，support Android / iOS / MacOS / Windows / Linux.
+*   [niuhuan/pikapika](https://github.com/niuhuan/pikapika) - A comic browser，support Android / iOS / MacOS / Windows / Linux.
 
 ## Thanks
 
