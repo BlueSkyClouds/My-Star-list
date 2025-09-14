@@ -135,8 +135,6 @@
 
 *   [Drifter321/admintool](https://github.com/Drifter321/admintool) - Source admin tool
 
-*   [alliedmodders/sourcepawn](https://github.com/alliedmodders/sourcepawn) - A small, statically typed scripting language.
-
 *   [asherkin/accelerator](https://github.com/asherkin/accelerator) - Community Crash Reporting for SRCDS
 
 *   [nosoop/SMExt-EntityLump](https://github.com/nosoop/SMExt-EntityLump) - SourceMod extension to parse entity lumps.
@@ -412,6 +410,8 @@
 *   [fbef0102/L4D1\_2-Plugins](https://github.com/fbef0102/L4D1_2-Plugins) - L4D1/2 enhancement, bug/glitch fixes, freaky-fun, and useful plugins.
 
 *   [surftimer/SurfTimer](https://github.com/surftimer/SurfTimer) - This repository is a continuation of cksurf, originally developed by jonitaikaponi, sneaK, nikoo77, fluffys. Meant to unite developers, so everybody can host a proper surf server.
+
+*   [alliedmodders/sourcepawn](https://github.com/alliedmodders/sourcepawn) - A small, statically typed scripting language.
 
 *   [Franc1sco/FixHintColorMessages](https://github.com/Franc1sco/FixHintColorMessages) - Hotfix for use colors on hint messeges again in csgo
 
