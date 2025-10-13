@@ -16,13 +16,13 @@
 
 ## Table of Contents
 
+*   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
 *   [Shell](#shell)
 *   [C++](#c)
 *   [C#](#c-1)
 *   [Rust](#rust)
 *   [Go](#go)
-*   [JavaScript](#javascript)
 *   [Dockerfile](#dockerfile)
 *   [PowerShell](#powershell)
 *   [PHP](#php)
@@ -42,6 +42,46 @@
 *   [CMake](#cmake)
 *   [Dart](#dart)
 *   [Thanks](#thanks)
+
+## JavaScript
+
+*   [Stremio/stremio-web](https://github.com/Stremio/stremio-web) - Stremio - Freedom to Stream
+
+*   [IITII/NexusphpStaffBot](https://github.com/IITII/NexusphpStaffBot) - nexusphp 通用 TG 站务机器人
+
+*   [LiteLoaderQQNT/LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT) - QQNT 插件加载器：LiteLoaderQQNT —— 轻量 · 简洁 · 开源 · 福瑞
+
+*   [AnotiaWang/AntiChannelSpammersBot](https://github.com/AnotiaWang/AntiChannelSpammersBot) - A Telegram bot that can delete messages from users appearing as channels, also messages from anonymous admins and the linked channels.
+
+*   [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
+
+*   [kysdm/u2\_share](https://github.com/kysdm/u2_share) -
+
+*   [rabbitmq/rabbitmq-server](https://github.com/rabbitmq/rabbitmq-server) - Open source RabbitMQ: core server and tier 1 (built-in) plugins
+
+*   [code-farmer-i/vue-markdown-editor](https://github.com/code-farmer-i/vue-markdown-editor) - A markdown editor built on Vue
+
+*   [EtherDream/freecdn](https://github.com/EtherDream/freecdn) - A front-end CDN based on ServiceWorker
+
+*   [pt-plugins/PT-Plugin-Plus](https://github.com/pt-plugins/PT-Plugin-Plus) - PT 助手 Plus，为 Microsoft Edge、Google Chrome、Firefox 浏览器插件（Web Extensions），主要用于辅助下载 PT 站的种子。
+
+*   [ledccn/IYUUPlus](https://github.com/ledccn/IYUUPlus) - IYUUAutoReseed项目的升级版，常驻内存运行；集成WEBUI控制界面、辅种、下载、定时访问URL、动态域名DDNS等常用功能，提供完善的插件机制。
+
+*   [DIYgod/DPlayer](https://github.com/DIYgod/DPlayer) - :lollipop: Wow, such a lovely HTML5 danmaku video player
+
+*   [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
+
+*   [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file\_folder: The Dropbox like web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
+
+*   [anthonyjgrove/react-google-login](https://github.com/anthonyjgrove/react-google-login) - A React Google Login Component
+
+*   [BeepIsla/CSGO---Discord-RichPresence](https://github.com/BeepIsla/CSGO---Discord-RichPresence) - Display CSGO information as rich presence  in discord.
+
+*   [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
+
+*   [Tencent/cloudbase-framework](https://github.com/Tencent/cloudbase-framework) -  腾讯云开发云原生一体化部署工具 🚀  CloudBase Framework：一键部署，不限框架语言，云端一体化开发，基于Serverless 架构
+
+*   [blinkfox/hexo-theme-matery](https://github.com/blinkfox/hexo-theme-matery) - A beautiful hexo blog theme with material design and responsive design.一个基于材料设计和响应式设计而成的全面、美观的Hexo主题。国内访问：http://blinkfox.com
 
 ## TypeScript
 
@@ -210,44 +250,6 @@
 *   [gorcon/rcon-cli](https://github.com/gorcon/rcon-cli) - RCON client for executing queries on game server.
 
 *   [jweny/pocassist](https://github.com/jweny/pocassist) - 傻瓜式漏洞PoC测试框架
-
-## JavaScript
-
-*   [IITII/NexusphpStaffBot](https://github.com/IITII/NexusphpStaffBot) - nexusphp 通用 TG 站务机器人
-
-*   [LiteLoaderQQNT/LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT) - QQNT 插件加载器：LiteLoaderQQNT —— 轻量 · 简洁 · 开源 · 福瑞
-
-*   [AnotiaWang/AntiChannelSpammersBot](https://github.com/AnotiaWang/AntiChannelSpammersBot) - A Telegram bot that can delete messages from users appearing as channels, also messages from anonymous admins and the linked channels.
-
-*   [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
-
-*   [kysdm/u2\_share](https://github.com/kysdm/u2_share) -
-
-*   [rabbitmq/rabbitmq-server](https://github.com/rabbitmq/rabbitmq-server) - Open source RabbitMQ: core server and tier 1 (built-in) plugins
-
-*   [code-farmer-i/vue-markdown-editor](https://github.com/code-farmer-i/vue-markdown-editor) - A markdown editor built on Vue
-
-*   [EtherDream/freecdn](https://github.com/EtherDream/freecdn) - A front-end CDN based on ServiceWorker
-
-*   [pt-plugins/PT-Plugin-Plus](https://github.com/pt-plugins/PT-Plugin-Plus) - PT 助手 Plus，为 Microsoft Edge、Google Chrome、Firefox 浏览器插件（Web Extensions），主要用于辅助下载 PT 站的种子。
-
-*   [ledccn/IYUUPlus](https://github.com/ledccn/IYUUPlus) - IYUUAutoReseed项目的升级版，常驻内存运行；集成WEBUI控制界面、辅种、下载、定时访问URL、动态域名DDNS等常用功能，提供完善的插件机制。
-
-*   [DIYgod/DPlayer](https://github.com/DIYgod/DPlayer) - :lollipop: Wow, such a lovely HTML5 danmaku video player
-
-*   [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
-
-*   [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file\_folder: The Dropbox like web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
-
-*   [anthonyjgrove/react-google-login](https://github.com/anthonyjgrove/react-google-login) - A React Google Login Component
-
-*   [BeepIsla/CSGO---Discord-RichPresence](https://github.com/BeepIsla/CSGO---Discord-RichPresence) - Display CSGO information as rich presence  in discord.
-
-*   [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
-
-*   [Tencent/cloudbase-framework](https://github.com/Tencent/cloudbase-framework) -  腾讯云开发云原生一体化部署工具 🚀  CloudBase Framework：一键部署，不限框架语言，云端一体化开发，基于Serverless 架构
-
-*   [blinkfox/hexo-theme-matery](https://github.com/blinkfox/hexo-theme-matery) - A beautiful hexo blog theme with material design and responsive design.一个基于材料设计和响应式设计而成的全面、美观的Hexo主题。国内访问：http://blinkfox.com
 
 ## Dockerfile
 
@@ -482,8 +484,6 @@
 *   [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
 
 *   [xugaoyi/vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing) - 🚀一款简洁高效的VuePress知识管理&博客(blog)主题
-
-*   [sapic/sapic](https://github.com/sapic/sapic) - A useful tool to crop your Steam profile background for showcases.
 
 ## CMake
 
