@@ -469,7 +469,7 @@
 
 *   [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
 
-*   [ybdt/exp-hub](https://github.com/ybdt/exp-hub) - 漏洞复现
+*   [ybdt/exp-hub](https://github.com/ybdt/exp-hub) - Poc and Exp
 
 ## Squirrel
 
