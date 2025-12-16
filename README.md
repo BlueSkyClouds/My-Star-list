@@ -363,8 +363,6 @@
 
 *   [ThirtyDegreesRay/OpenHub](https://github.com/ThirtyDegreesRay/OpenHub) - An open source GitHub Android client app, faster and concise.
 
-*   [xiaojieonly/Ehviewer\_CN\_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ) - ehviewer，用爱发电，快乐前行
-
 *   [grpc/grpc-java](https://github.com/grpc/grpc-java) - The Java gRPC implementation. HTTP/2 based RPC
 
 *   [hub4j/github-api](https://github.com/hub4j/github-api) - Java API for GitHub
@@ -438,6 +436,8 @@
 ## C
 
 *   [ErikMinekus/sm-ripext](https://github.com/ErikMinekus/sm-ripext) - SourceMod REST in Pawn Extension
+
+*   [xiaojieonly/Ehviewer\_CN\_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ) - ehviewer，用爱发电，快乐前行
 
 *   [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 
