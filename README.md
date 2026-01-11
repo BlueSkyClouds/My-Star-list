@@ -45,6 +45,8 @@
 
 ## JavaScript
 
+*   [ThreeE999/ExHentai-Lanraragi-Checker](https://github.com/ThreeE999/ExHentai-Lanraragi-Checker) - A Tampermonkey UserScript. Checks if galleries on ExHentai/E-Hentai are already in your Lanraragi library and marks them by inserting a span at the beginning of the title.
+
 *   [Stremio/stremio-web](https://github.com/Stremio/stremio-web) - Stremio - Freedom to Stream
 
 *   [IITII/NexusphpStaffBot](https://github.com/IITII/NexusphpStaffBot) - nexusphp 通用 TG 站务机器人
@@ -482,8 +484,6 @@
 *   [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
 
 *   [xugaoyi/vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing) - 🚀一款简洁高效的VuePress知识管理&博客(blog)主题
-
-*   [sapic/sapic](https://github.com/sapic/sapic) - A useful tool to crop your Steam profile background for showcases.
 
 ## CMake
 
