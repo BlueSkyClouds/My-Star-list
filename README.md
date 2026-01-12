@@ -187,7 +187,7 @@
 
 *   [e54385991/cs2-css-Plugin](https://github.com/e54385991/cs2-css-Plugin) -
 
-*   [ianlucas/cs2-inventory-simulator-plugin](https://github.com/ianlucas/cs2-inventory-simulator-plugin) - A CounterStrikeSharp plugin for integrating with CS2 Inventory Simulator
+*   [ianlucas/cs2-css-inventory-simulator](https://github.com/ianlucas/cs2-css-inventory-simulator) - A CounterStrikeSharp plugin for integrating with CS2 Inventory Simulator
 
 *   [roflmuffin/CounterStrikeSharp](https://github.com/roflmuffin/CounterStrikeSharp) - CounterStrikeSharp allows you to write server plugins in C# for Counter-Strike 2/Source2/CS2
 
