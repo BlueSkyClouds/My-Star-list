@@ -295,8 +295,6 @@
 
 *   [666wcy/pikpakdown](https://github.com/666wcy/pikpakdown) -
 
-*   [vcb-s/VCB-S\_Publishing](https://github.com/vcb-s/VCB-S_Publishing) - Publishing Standards
-
 *   [bilibili/ailab](https://github.com/bilibili/ailab) -
 
 *   [Sitoi/dailycheckin](https://github.com/Sitoi/dailycheckin) - 基于「Docker」/「青龙面板」/「群晖」的每日签到脚本（支持多账号）签到列表: ｜爱奇艺｜全民K歌｜有道云笔记｜百度贴吧｜Bilibili｜V2EX｜AcFun｜什么值得买｜阿里云盘｜i茅台申购｜小米运动｜百度搜索资源平台｜恩山论坛｜奥拉星｜
@@ -470,6 +468,8 @@
 ## HTML
 
 *   [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
+
+*   [vcb-s/VCB-S\_Publishing](https://github.com/vcb-s/VCB-S_Publishing) - Publishing Standards
 
 *   [ybdt/exp-hub](https://github.com/ybdt/exp-hub) - Poc and Exp
 
