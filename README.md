@@ -55,8 +55,6 @@
 
 *   [AnotiaWang/AntiChannelSpammersBot](https://github.com/AnotiaWang/AntiChannelSpammersBot) - A Telegram bot that can delete messages from users appearing as channels, also messages from anonymous admins and the linked channels.
 
-*   [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
-
 *   [kysdm/u2\_share](https://github.com/kysdm/u2_share) -
 
 *   [rabbitmq/rabbitmq-server](https://github.com/rabbitmq/rabbitmq-server) - Open source RabbitMQ: core server and tier 1 (built-in) plugins
@@ -308,6 +306,8 @@
 ## miscellaneous
 
 *   [ekibot/bangumi-link](https://github.com/ekibot/bangumi-link) -
+
+*   [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
 
 *   [thsrite/MediaSyncDel](https://github.com/thsrite/MediaSyncDel) - emby同步删除nt/mp历史记录、源文件、下载任务配置
 
