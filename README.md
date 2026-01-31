@@ -307,7 +307,7 @@
 
 *   [ekibot/bangumi-link](https://github.com/ekibot/bangumi-link) -
 
-*   [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
+*   [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) -
 
 *   [thsrite/MediaSyncDel](https://github.com/thsrite/MediaSyncDel) - emby同步删除nt/mp历史记录、源文件、下载任务配置
 
